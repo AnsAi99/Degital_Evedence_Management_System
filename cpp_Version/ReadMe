@@ -1,0 +1,14 @@
+## C++ Implementation: Custom Data Structures & Memory Management
+
+This directory contains the C++ implementation of the **Digital Evidence Management System**. While the Java version focuses on high-level architectural design, the primary objective of this C++ version is to demonstrate a deep understanding of foundational computer science concepts, low-level memory management, and algorithmic logic.
+
+### Key Technical Highlights:
+* **Manual Data Structures:** Core data structures, specifically **Stacks** (and linked lists/queues), were implemented entirely from scratch. This version deliberately avoids the C++ Standard Template Library (STL) to showcase a profound understanding of how these structures operate under the hood.
+* **Low-Level Memory Management:** Efficient handling of dynamic memory allocation and deallocation using pointers, ensuring optimal resource utilization and preventing memory leaks.
+* **Persistent File I/O:** Secure and persistent storage of investigation records and evidence data using C++ file streams (`fstream`), allowing the system to save and retrieve data across multiple sessions.
+* **Algorithmic Efficiency:** Focus on the underlying mechanics and custom algorithms required to push, pop, traverse, and manage investigation records efficiently within the custom-built structures.
+
+### How to Run:
+1. Open the `Investigation_Office_Project.sln` solution file using **Microsoft Visual Studio** (or configure your preferred C++ compiler).
+2. Build the solution (Ctrl+Shift+B in Visual Studio) to compile the source code.
+3. Run the generated executable to launch the system and interact with the investigation database.
