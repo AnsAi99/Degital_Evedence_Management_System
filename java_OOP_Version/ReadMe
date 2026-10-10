@@ -1,0 +1,12 @@
+java implementation:Object-Oriented-Architecture
+This directory contains the java implementation of **Digital Evedence Management System**.The primary objective of this version is to build a highly scalable,maintainable,and modelular application by strictly adheringto core **Object-Oriented- Programming (OOP ) **principles.
+## key technical Highlights:
+* **robust OOP Design:**Extensive utilization of encapsulation ,inheritance, and method overriding to logically structure system entities (such as Investigation Cases and Digital Evidence).
+* **Graphical User Interface (GUI):**Interactive and user-friendly interface built using **java swing **components(e.g.,JComboBoxes,JOptionPanes) for seamless data entery and case tracking.
+* **Persistent file I/O:** Implements secure file handling operations to persistently save,read, andmanage evidence logs and case records across application sessions without data loss.
+  * **Development Environment:** the project is fully structured and developed using **NetBeans IDE**.
+
+  ###How to Run:
+1.Open the project folder in NetBeans(or your prefered java IDE).
+2.Ensure the JDK is properly configured.
+3.build and run the main class to launch the Investigation Office GUI.
